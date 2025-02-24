@@ -11,8 +11,8 @@
   <a href="#-usage">Usage</a> •
   <a href="#-system-requirements">Requirements</a> •
   <a href="#-privacy">Privacy</a> •
-    <a href="#-disclaimer">Disclaimer</a> •
-  <a href="#-support">Support</a>
+    <a href="#%EF%B8%8F-disclaimer">Disclaimer</a> •
+  <a href="#%EF%B8%8F-support">Support</a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ AIBattery respects your privacy:
 
 - No data collection or transmission
 - All operations performed locally on your device
-- No network access required for core functionality
+- No network access is required for core functionality
 - Open-source codebase for complete transparency
 
 ## ⚠️ Disclaimer
