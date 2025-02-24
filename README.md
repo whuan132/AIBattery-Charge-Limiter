@@ -6,12 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#system-requirements">Requirements</a> •
-  <a href="#privacy">Privacy</a> •
-  <a href="#support">Support</a>
+  <a href="#-key-features">Features</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-system-requirements">Requirements</a> •
+  <a href="#-privacy">Privacy</a> •
+    <a href="#-disclaimer">Disclaimer</a> •
+  <a href="#-support">Support</a>
 </p>
 
 ---
