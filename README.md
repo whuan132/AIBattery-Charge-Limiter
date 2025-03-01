@@ -76,7 +76,7 @@ To manually check for updates:
 ## 💻 System Requirements
 
 - **macOS**: 12 Monterey or later
-- **Hardware**: Compatible with both Apple Silicon (M1/M2/M3) and Intel-based Macs
+- **Hardware**: Compatible with both Apple Silicon (M1/M2/M3/M4...) and Intel-based Macs
 
 ## 🔒 Privacy
 
