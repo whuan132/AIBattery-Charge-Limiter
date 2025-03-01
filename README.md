@@ -85,7 +85,6 @@ AIBattery respects your privacy:
 - No data collection or transmission
 - All operations performed locally on your device
 - No network access is required for core functionality
-- Open-source codebase for complete transparency
 
 ## ⚠️ Disclaimer
 
