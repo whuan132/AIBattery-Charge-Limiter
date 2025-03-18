@@ -22,7 +22,7 @@
 AIBattery intelligently manages your MacBook's battery to maximize its lifespan:
 
 - **⚡ Set Charge Limits** — Prevent battery degradation by capping charge levels at your preferred threshold
-- **⛵ Sailing Mode** — Automatically optimizes charging by maintaining your battery within a custom charge range
+- **⛵ Sailing Mode** — Automatically optimizes charging by maintaining battery within a custom charge range
 - **🔋 Discharge Mode** — Run on battery power even when plugged in to maintain optimal battery chemistry
 - **🔌 Top-Up Mode** — Override limits when you need a full charge before unplugging
 - **🔄 Auto-Launch** — Set and forget with automatic startup on boot
