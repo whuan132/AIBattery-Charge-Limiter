@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.collweb.AIBatteryHelper</string>
+    
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Library/Application Support/AIBatteryHelper/AIBatteryHelper</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>MachServices</key>
+    <dict>
+        <key>com.collweb.AIBatteryHelper</key>
+        <true/>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/var/log/AIBatteryHelper.log</string>
+    <key>StandardErrorPath</key>
+    <string>/var/log/AIBatteryHelper.log</string>
+</dict>
+</plist>
