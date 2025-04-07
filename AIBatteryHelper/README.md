@@ -7,18 +7,18 @@ This helper runs as a privileged service and communicates with the main app usin
 ---
 
 ## 📁 Project Structure
-
+```
 AIBatteryHelper/
 ├── main.swift                  # Entry point for the daemon process
-├── Logging
-├── Scripts
-├── SMC/
+├── Logging/                    # Logging functionality
+├── Scripts/                    # Helper scripts 
+├── SMC/                        # System Management Controller related code
 │   ├── Battery/                # Battery-specific control modules
 │   ├── Core/                   # Low-level AppleSMC interaction
 │   ├── Error/                  # Custom error definitions
 │   └── Power/                  # Power source detection (AC)
-├── XPC/                        # XPC protocol definitions and implementation
-
+└── XPC/                        # XPC protocol definitions and implementation
+```
 ---
 
 ## 📦 Module Overview
