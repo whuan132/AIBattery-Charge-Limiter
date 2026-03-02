@@ -96,7 +96,6 @@ AIBattery is provided "as is" without warranty of any kind. While designed to im
 Need help? We're here for you:
 
 - **[Report Issues](https://github.com/whuan132/AIBattery/issues)** on GitHub
-- **[Visit Our Website](https://www.aibatteryapp.com)** for more information
 
 ---
 
